@@ -1,4 +1,7 @@
-# api documentation for  [next-tick (v1.0.0)](https://github.com/medikoo/next-tick#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-next-tick.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-next-tick) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-next-tick.svg)](https://travis-ci.org/npmdoc/node-npmdoc-next-tick)
+# npmdoc-next-tick
+
+#### basic api documentation for  [next-tick (v1.0.0)](https://github.com/medikoo/next-tick#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-next-tick.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-next-tick) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-next-tick.svg)](https://travis-ci.org/npmdoc/node-npmdoc-next-tick)
+
 #### Environment agnostic nextTick polyfill
 
 [![NPM](https://nodei.co/npm/next-tick.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/next-tick)
@@ -62,7 +65,8 @@
         "lint-console": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --watch",
         "test": "node node_modules/tad/bin/tad"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
